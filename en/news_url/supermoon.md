@@ -1,4 +1,4 @@
-```
+
 # SuperMoon: A pytorch library for hypergraph learning.
 **SuperMoon** is a python toolbox for hypergraph-based deep learning, which is built upon [pytorch](https://pytorch.org/). 
  Edge in hypergraph named hyperedge can link more than two nodes, which allows hyperedge to express more than pair-wise 
@@ -68,4 +68,3 @@ If you find **THU-SuperMoon** is useful in your research, please consider citing
 ## Contributing
 We always welcome contributions to help make HyperG better, and apply hypergraph in more applications. If you would like 
 to contribute, please [contact us](mailto:evanfeng97@gmail.com).
-```
