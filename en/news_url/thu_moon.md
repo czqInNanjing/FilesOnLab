@@ -9,7 +9,7 @@ THU-Moon: A python toolbox for hypergraph learning
 [![PyPI Version][pypi-image]][pypi-url]
 [![LICENSE Version][license-image]][license-url]
 
-**Github**: Comming Soon!
+**Github**: https://github.com/iMoonLab/THU-Moon
 
 
 Introduction
@@ -39,10 +39,3 @@ Examples
 
 We provide some [examples](https://github.com/iMoonLab/THU-Moon/tree/master/examples) in the examples/ directory about how to apply this toolbox to the tasks like classification and segmentation.  
 
-Citing
---- 
-
-
-Contributing
----
-We appreciate all contributions to improve THU-Moon. Pull requests are always welcomed.
