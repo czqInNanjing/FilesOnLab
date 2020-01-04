@@ -1,4 +1,3 @@
-
 # SuperMoon: A pytorch library for hypergraph learning.
 
 **Github**: https://github.com/iMoonLab/THU-SuperMoon
@@ -50,14 +49,14 @@ pip install .
  ```
 
 ## Documentation
-Tutorial and Documentation will coming soon!
+Tutorial and Documentation are coming soon!
     
 ## Examples
 We provide examples in classification, regression, segmentation tasks with hypergraph, for more detail refer to our tutorials.
 
 ## Citing THU-SuperMoon
 If you find **THU-SuperMoon** is useful in your research, please consider citing:
-​```
+```
 @inproceedings{feng2019hypergraph,
   title={Hypergraph neural networks},
   author={Feng, Yifan and You, Haoxuan and Zhang, Zizhao and Ji, Rongrong and Gao, Yue},
@@ -66,8 +65,4 @@ If you find **THU-SuperMoon** is useful in your research, please consider citing
   pages={3558--3565},
   year={2019}
 }
-​```
-
-## Contributing
-We always welcome contributions to help make HyperG better, and apply hypergraph in more applications. If you would like 
-to contribute, please [contact us](mailto:evanfeng97@gmail.com).
+```
