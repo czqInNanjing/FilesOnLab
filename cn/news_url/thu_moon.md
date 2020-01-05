@@ -10,7 +10,7 @@ THU-Moon: A python toolbox for hypergraph learning
 [![LICENSE Version][license-image]][license-url]
 
 
-**Github**: https://github.com/iMoonLab/THU-Moon
+**Github**: [Click Here](https://github.com/iMoonLab/THU-Moon)
 
 Introduction
 ---
