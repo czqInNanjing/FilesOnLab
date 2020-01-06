@@ -39,3 +39,8 @@ Examples
 
 We provide some [examples](https://github.com/iMoonLab/THU-Moon/tree/master/examples) in the examples/ directory about how to apply this toolbox to the tasks like classification and segmentation.  
 
+Publications
+---
+Zizhao Zhang, Haojie Lin, Xibin Zhao, Rongrong Ji, Yue Gao. <br/>
+**Inductive Multi-Hypergraph Learning for View-Based 3D Object Classification.**<br/>
+IEEE Transactions on Image Processing, 2018.
