@@ -2,6 +2,7 @@
 
 **Github**: [Click Here](https://github.com/iMoonLab/THU-SuperMoon)
 
+# THU-SuperMoon: A pytorch library for hypergraph learning.
 **THU-SuperMoon** is a python toolbox for hypergraph-based deep learning, which is built upon [pytorch](https://pytorch.org/). 
  Edge in hypergraph named hyperedge can link more than two nodes, which allows hyperedge to express more than pair-wise 
  relation(like: entity-attribute relation, group relation, hierarchical relation and so on.). Thus, hypergraph owns more 
@@ -30,7 +31,7 @@
  
  * **Utils**: some convenient util functions(to be continue... ):
     * **Data**: multiple modality data supported (to be continue...)
-        * **MRI**: mri series read and write functions.
+        * **MRI**: MRI series read and write functions.
         * **Pathology**: sample patches from WSI slide return patch coordinates(left top point) and patch width and height. 
         draw sampled patches on WSI slide function for overview or visualization.
     * **Meter**: evaluate meters in hypergraph learning.
@@ -68,3 +69,4 @@ TIP 2012. [paper](http://imt.xmu.edu.cn/publication/Image%20Processing-3D%20Obje
 ## Contributing
 We always welcome contributions to help make THU-SuperMoon better, and apply hypergraph in more applications. If you would like 
 to contribute, please [contact us](mailto:evanfeng97@gmail.com).
+
