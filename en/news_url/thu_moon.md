@@ -1,15 +1,7 @@
 **Github**: [Click Here](https://github.com/iMoonLab/THU-HyperG)
-[license-image]: https://img.shields.io/github/license/iMoonLab/THU-HyperG.svg
-[license-url]: https://github.com/iMoonLab/THU-HyperG/blob/master/LICENSE
 
 THU-HyperG: A python toolbox for hypergraph learning  
 ===
-
-
-[![LICENSE Version][license-image]][license-url]
-
-
-
 
 Introduction
 ---
